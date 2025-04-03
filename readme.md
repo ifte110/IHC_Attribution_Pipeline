@@ -1,7 +1,7 @@
 ## Attribution Pipeline Report
 
 ### Overview
-The Attribution Pipeline is designed to process customer journey data, calculatee customer interaction phases: Initializer, Holder and Closer (IHC), and generate channel performance reports. This report outlines the pipeline's functionality, key steps, and recent enhancements.
+The Attribution Pipeline is designed to process customer journey data, calculate customer interaction phases: Initializer, Holder and Closer (IHC), and generate channel performance reports. This report outlines the pipeline's functionality, key steps, and recent enhancements.
 
 ### Pipeline Steps
 1. **Database Connection:**
